@@ -73,6 +73,7 @@ We used the exact same downstream tasks as UniMol, which mainly include two type
 ```
 data_path= # replace to your data path
 save_dir=  # replace to your save path
+logfile=${save_dir}/train.log
 n_gpu=4
 MASTER_PORT=10086
 dict_name="dict.txt"
