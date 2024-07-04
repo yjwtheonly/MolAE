@@ -147,3 +147,27 @@ Regression:
 | pooler-dropout    | 0.4 | 0.4 |  0.1 | 0.1  | 0 | 0 |
 | dropout    | 0.1 | 0.1 |  0.1 | 0.1  | 0 | 0.1 |
 | warmup     | 0.06 | 0.1 | 0.24 | 0.06  | 0.02 | 0.06 |
+
+
+TODO
+--------
+- [ ] More detailed README.
+
+Citation
+--------
+
+Please kindly cite this paper if you use the data/code/model.
+```
+@article{yang2024mol,
+  title={MOL-AE: Auto-Encoder Based Molecular Representation Learning With 3D Cloze Test Objective},
+  author={Yang, Junwei and Zheng, Kangjie and Long, Siyu and Nie, Zaiqing and Zhang, Ming and Dai, Xinyu and Ma, Wei-Ying and Zhou, Hao},
+  journal={bioRxiv},
+  pages={2024--04},
+  year={2024},
+}
+```
+
+License
+-------
+
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/yjwtheonly/MolAE/blob/master/LICENSE) for additional details.
