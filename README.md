@@ -7,7 +7,7 @@ The Mol-AE code is primarily built upon the UniMol codebase. Therefore, for sett
 
 ## Pre-train
 
-There are two ways to use Mol-AE: you can either directly use our pre-trained weights, like picking up a ready-made tool, or you can pre-train Mol-AE from scratch, akin to crafting your own tool from raw materials.
+There are two ways to use Mol-AE: you can either directly use our pre-trained weights, or you can pre-train Mol-AE from scratch.
 
 ### 1.Directly use the pre-trained model.
 The pre-trained checkpoint can be downloaded from [[google drive](https://drive.google.com/file/d/1NKObZCfE80GCLS9yJ7hqMGzjfGol4LLo/view?usp=drive_link)].
